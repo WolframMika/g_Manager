@@ -32,10 +32,13 @@ Download the latest executable from the [Releases](../../releases) page.
 
 ## Quick Start
 
-1. Download the latest release.
-2. Run the application.
-3. Configure your Unturned server settings.
-4. Start managing your server with ease.
+1. Download and install the latest release.
+2. Launch the application.
+3. Configure your Unturned server:
+   - Click **Change File** and select `Unturned.exe` from your server's `U3DS` folder.
+   - Open your `Server.bat` and `ServerHelper.bat` files.
+   - Copy all launch arguments (including `-batchmode -nographics`) and paste them into the arguments **text box below Change File**.
+4. Start managing your server.
 
 ---
 
@@ -46,7 +49,7 @@ Download the latest executable from the [Releases](../../releases) page.
 * **Easy Configuration**<br>Intuitive settings for server management.
 * **Real-time Server Control**<br>Direct access to server console commands.
 * **Stable Release**<br>Fully functional and production-ready.
-
+* **Easy Start/Shutdown/Restart**<br>With only one button press.
 ---
 
 ## Requirements for Running the App
