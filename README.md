@@ -17,7 +17,7 @@ If you find the project useful, consider giving it a star. It helps show that th
 ## Visual Showcase
 
 <p align="center">
-  <img src="README-assets/g_Manager.gif" alt="g_Manager demo" width="700">
+  <img src="README-assets/g_Manager.png" alt="g_Manager demo" width="700">
 </p>
 
 ---
